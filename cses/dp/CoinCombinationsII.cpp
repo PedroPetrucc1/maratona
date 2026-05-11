@@ -1,5 +1,5 @@
 /*
- * LINK: https://cses.fi/ckvo8q5wh/task/1636
+ * LINK: https://cses.fi/problemset/task/1636
  * NOME: Coin Combinations II
 */
 
