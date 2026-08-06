@@ -1,6 +1,6 @@
 /*
- *	NOME: 
- *	LINK: 
+ *	NOME: Fatigue-Fighting Vacation
+ *	LINK: https://codeforces.com/gym/104555/problem/F
 */
 
 #include <bits/stdc++.h>
