@@ -10,8 +10,6 @@ typedef long long ll;
 
 ll MOD = 1e9+7;
 
-map <ll, ll> f;
-
 vector <ll> fib(ll n){
 	if(n==0) return {0, 1};
 	
