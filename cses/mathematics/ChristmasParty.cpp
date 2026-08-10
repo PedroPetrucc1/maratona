@@ -22,7 +22,7 @@ int main(){
     for(int i = 3; i <= n; i++){
         chaotic[i] = ((i-1)*(chaotic[i-2] + chaotic[i-1]))%MOD;
     }
-    cout << count[n] << "\n";
+    cout << chaotic[n] << "\n";
     
 	return 0;
 }
